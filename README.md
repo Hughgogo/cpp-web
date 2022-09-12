@@ -1,4 +1,7 @@
 # cpp-web
 ## C++ library for web service from scratch
-1. /Server
-2. /Socket
+- **/Server**
+  Server accept and handle event from socket
+  *HTTP response to be add*
+- **/Socket**
+  Library for socket binding, listening, connecting
